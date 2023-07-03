@@ -1,0 +1,12 @@
+html, body, #root {
+    height: 100%;
+    text-align: center;
+    font-size: x-large;
+    background-image: linear-gradient(rgb(132, 251, 5), rgb(167, 244, 134));
+    color: white;
+}
+
+a {
+    color: rgb(9, 12, 10);
+}
+
